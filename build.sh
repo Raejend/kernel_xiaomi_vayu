@@ -18,7 +18,7 @@ fi
 KDIR=$(pwd)
 TC="${KDIR}/.tools"
 AK=${TC}/AnyKernel
-KERNEL_NAME="Derp-KSU"
+KERNEL_NAME="perf"
 KERNEL_TYPE="EAS"
 PHONE="Poco X3 Pro"
 DEVICE="vayu"
